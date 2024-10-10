@@ -20,7 +20,7 @@
 </div>
 
 - 🧑🏻‍🎓 I'm a college student!<br/>
-- 🔭 I'm VERY VERY interedted 'in GAME ENGINES' and 3D Design.<br/>[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://www.unity.com)
+- 🔭 I'm VERY VERY interedted in 'GAME ENGINES' and '3D Design'.<br/>[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://www.unity.com)
 [![Unrealengine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/ko)
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org)<br/> 
 - 🌱 I'm currently learning XD<br/>
