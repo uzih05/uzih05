@@ -16,12 +16,13 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuzih05%2F&count_bg=%236667AB&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
  
-<br>
+  <br>
 </div>
 
 - 🎓 Just a college student.
 - 🌏 A Korean.
 - 🌐 Languages: Korean, English 🇰🇷🇺🇸
+- 💻 Learning to build impactful websites!
 
 </div>
 <div align="center">
@@ -30,7 +31,7 @@
 
 </div>
 </div>
-<br/>
+  <br/>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/)
@@ -38,17 +39,24 @@
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)...
 
-<br/>
-<br/>
+  <br/>
+  <br/>
 
 DEVELOPMENT ENVIRONMENT:
-<br/>
+  <br/>
 
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com)
 
 <div align="center">
   <br>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzih05&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzih05&show_icons=true&theme=dark)
+  
+</div>
+
+<div align="center">
+  <br>
+
+🌟 Keep learning, keep growing.
   
 </div>
