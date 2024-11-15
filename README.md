@@ -1,34 +1,18 @@
 <div align="center">
-
-[![Typing SVG](https://capsule-render.vercel.app/api?type=waving&color=0:2b91b0,100:66ae7b&height=120&fontColor=FFFFFF&fontAlign=50&animation=fadeIn&section=footer&text=Jiheon&fontAlign=70)](https://git.io/typing-svg)
-
-MY SNS.. 💬
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/d2q9jrhtBk)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uzi._.h)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luv.wlgjs@gmail.com)
-
-</div>
-
-<div align="right">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuzih05%2F&count_bg=%236667AB&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
- 
-  <br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2b91b0,100:66ae7b&height=120&fontColor=FFFFFF&fontAlign=50&animation=fadeIn&section=footer&text=Jiheon&fontAlign=70)
 </div>
+
+<h2>Introduction 🧑🏻‍🎓</h2>
 
 - 🎓 Just a college student.
 - 🌏 A Korean.
 - 🌐 Languages: Korean, English 🇰🇷🇺🇸
 - 💻 Learning to build impactful websites!
 
-</div>
-<div align="center">
-  
-![Venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=🌱%20Currently%20learning&fontSize=60&color=0:8871e5,100:b678c4&stroke=b678c4)
+<br>
 
-</div>
-</div>
+<h2>🌱 currently Learning...</h2>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/)
@@ -36,10 +20,9 @@ MY SNS.. 💬
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)...
 
-  <br/>
+<br>
 
-🛠️ Tools & Environment:
-  <br/>
+<h2>🛠️ Tools & Environment</h2>
 
 [![INTELLIJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/)
 [![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/)
@@ -50,13 +33,16 @@ MY SNS.. 💬
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com)
 
 <div align="center">
-  <br>
+  <br>  
+    <h1>MY SNS.. 💬</h2>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uzi._.h)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luv.wlgjs@gmail.com)
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzih05&show_icons=true&theme=dark)
-  
-</div>
 
-<div align="center">
   <br>
 
 🌟 Keep learning, keep growing.
