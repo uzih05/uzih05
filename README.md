@@ -1,8 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=35&duration=2800&pause=1000&color=6667AB&center=true&multiline=true&repeat=false&random=false&width=435&lines=Hi%2C+I'm+Jiheon!)](https://git.io/typing-svg)
-
-## ☁️Welcome to my profile☁️
+[![Typing SVG](https://capsule-render.vercel.app/api?type=waving&color=0:2b91b0,100:66ae7b&height=120&fontColor=FFFFFF&fontAlign=50&animation=fadeIn&section=footer&text=Jiheon&fontAlign=70)](https://git.io/typing-svg)
 
 MY SNS.. 💬
 
