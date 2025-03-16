@@ -1,8 +1,3 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2b91b0,100:66ae7b&height=120&fontColor=FFFFFF&fontAlign=50&animation=fadeIn&section=footer&text=Jiheon&fontAlign=70)
-</div>
-
 <h2>Introduction 🧑🏻‍🎓</h2>
 
 - 🎓 Just a college student.
