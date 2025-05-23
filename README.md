@@ -37,16 +37,11 @@
 ## 💻 Development Environment
 
 <p align="left">
+  <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JetBrains_IDEs-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></a>
 </p>
 
 ---
