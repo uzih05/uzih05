@@ -11,7 +11,7 @@
 ## 🧑🏻‍🎓 About Me
 
 - 🎓 Currently studying Computer Science  
-- 🌐 Fluent in Korean 🇰🇷 and English 🇺🇸  
+- 🌐 Korean 🇰🇷 and English 🇺🇸  
 - 💻 Passionate about backend, web, and game development  
 - 🎮 Currently exploring game engines like Unity and Unreal Engine  
 - 🧠 Loves learning and experimenting with new tools and technologies  
