@@ -1,7 +1,5 @@
 <h1 align="left">👋 Hello! I'm 유지헌</h1>
 
----
-
 ## 🧑🏻‍🎓 About Me
 
 - 🎓 Currently studying Computer Science  
