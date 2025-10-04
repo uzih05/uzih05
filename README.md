@@ -1,11 +1,5 @@
 <h1 align="left">👋 Hello! I'm 유지헌</h1>
 
-<p align="left">
-  <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&vCenter=true&width=700&lines=A+Korean+developer+who+loves+clean+code.;Keep+learning+and+building+meaningful+things." 
-  alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧑🏻‍🎓 About Me
