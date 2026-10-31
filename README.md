@@ -17,4 +17,4 @@ Student
 <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" title="Figma" /></a>
 <a href="https://www.jetbrains.com"><img src="https://skillicons.dev/icons?i=idea" height="48" alt="JetBrains IDEs" title="JetBrains IDEs" /></a>
 
-<sub><a href="mailto:jiheon.yu@outlook.com">Email</a> &nbsp;·&nbsp; <a href="https://bodaboni.com">Blog</a></sub>
+<sub><a href="https://wystn.net">Website</a> &nbsp;·&nbsp; <a href="mailto:jiheon.yu@outlook.com">Email</a> &nbsp;·&nbsp; <a href="https://bodaboni.com">Blog</a></sub>
